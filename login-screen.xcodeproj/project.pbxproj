@@ -405,6 +405,7 @@
 				D2BC1B9B1A4EF1B000B19963 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D2BC1B9C1A4EF1B000B19963 /* Build configuration list for PBXNativeTarget "login-screenTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				D2BC1B9E1A4EF1B000B19963 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
